@@ -1,0 +1,73 @@
+{
+  "livegame": {
+    "opponents": [
+      {
+        "name": "<string-name>",
+        "champName": "Alistar",
+        "cooldown": {
+          "flash": 300,
+          "ignite": 180,
+          "exhaust": 180,
+          "cleanse": 180,
+          "teleport": 300,
+          "ghost": 180,
+          "barrier": 180
+        }
+      },
+      {
+        "name": "<string-name>",
+        "champName": "Alistar",
+        "cooldown": {
+          "flash": 300,
+          "ignite": 180,
+          "exhaust": 180,
+          "cleanse": 180,
+          "teleport": 300,
+          "ghost": 180,
+          "barrier": 180
+        }
+      },
+      {
+        "name": "<string-name>",
+        "champName": "Alistar",
+        "cooldown": {
+          "flash": 300,
+          "ignite": 180,
+          "exhaust": 180,
+          "cleanse": 180,
+          "teleport": 300,
+          "ghost": 180,
+          "barrier": 180
+        }
+      },
+      {
+        "name": "<string-name>",
+        "champName": "Alistar",
+        "cooldown": {
+          "flash": 300,
+          "ignite": 180,
+          "exhaust": 180,
+          "cleanse": 180,
+          "teleport": 300,
+          "ghost": 180,
+          "barrier": 180
+        }
+      },
+      {
+        "name": "<string-name>",
+        "champName": "Alistar",
+        "cooldown": {
+          "flash": 300,
+          "ignite": 180,
+          "exhaust": 180,
+          "cleanse": 180,
+          "teleport": 300,
+          "ghost": 180,
+          "barrier": 180
+        }
+      }
+    ],
+    "playerName": "AS.Sherlendy",
+    "mapId": "<integer-map-id>"
+  }
+}
